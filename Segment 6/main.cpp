@@ -3,7 +3,6 @@
 using namespace std;
 
 //This program calculates the square feet of a room
-
 int main()
 {
     cout << "Enter the width of the room";
