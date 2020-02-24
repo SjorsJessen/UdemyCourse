@@ -1,0 +1,1 @@
+(price_per_small_room * small_rooms) + (price_per_large_room * large_rooms)
