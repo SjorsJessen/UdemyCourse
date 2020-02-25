@@ -18,12 +18,12 @@ int main()
 
     const double price_per_small_room(25.0);
     const double price_per_large_room(35.0);
-
     const double sales_tax(0.06);
 
     const int estimate_expiry(30);
 
     cout << "Estimate for carpet cleaning service" << endl;
+    
     cout << "Number of small rooms: " << small_rooms << endl;
     cout << "Number of large rooms: " << large_rooms << endl;
 
